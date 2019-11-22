@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/339e6fa7615db944a67d452f460e702f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/3a77e3cb08ef1ef988ee135a23302069/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/42878ca2c141038f916d1c162c769e5a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/071d8359e939c5df5727d1a54f17165a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/0be4a4ec05d7d882ee3f5e87d2736ae0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/c4604650596ebcf0cdf1772583f15eda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/fcfaf99253432dde4e76448b3535d91d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f4926ae524d2ce17efd47dd35fc6fe14/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/a3b95fee3ab506822108ecc64f02a3f3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/2970a799321a3d3ce9931cf0925f0837/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/74a61db6213297d92b5cd3a0de31b0e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/9deb4adbc76bf9c6156acf1c92ec2d39/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/327d6a071eb34147c1ed210ba457793f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/4d47baf5563c2933782cd95ed7a3e1e4/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f1316f19a4bfdf17632a22d941d8090a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f4f37a34e48060fd7854584d86409cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/89265e2188b952e726b2891f007af1af/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/269cdbd62003e7270ee17a0a11f2e91b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/275180116ef8695b456514d4a511453f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/bb230b1e6fca8abac2e8d0ec8b80f4dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/dbbfe007dd44a27dae75485dbc51a13b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/3a77e3cb08ef1ef988ee135a23302069/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/3a77e3cb08ef1ef988ee135a23302069/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/9deb4adbc76bf9c6156acf1c92ec2d39/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/9deb4adbc76bf9c6156acf1c92ec2d39/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/4d47baf5563c2933782cd95ed7a3e1e4/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/4d47baf5563c2933782cd95ed7a3e1e4/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/9deb4adbc76bf9c6156acf1c92ec2d39/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.madagascar.lasvegas.MainActivity
+ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/339e6fa7615db944a67d452f460e702f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/339e6fa7615db944a67d452f460e702f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/3a77e3cb08ef1ef988ee135a23302069/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/3a77e3cb08ef1ef988ee135a23302069/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/42878ca2c141038f916d1c162c769e5a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/42878ca2c141038f916d1c162c769e5a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/071d8359e939c5df5727d1a54f17165a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/071d8359e939c5df5727d1a54f17165a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/0be4a4ec05d7d882ee3f5e87d2736ae0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/0be4a4ec05d7d882ee3f5e87d2736ae0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/c4604650596ebcf0cdf1772583f15eda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/c4604650596ebcf0cdf1772583f15eda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/fcfaf99253432dde4e76448b3535d91d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/fcfaf99253432dde4e76448b3535d91d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f4926ae524d2ce17efd47dd35fc6fe14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f4926ae524d2ce17efd47dd35fc6fe14/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/a3b95fee3ab506822108ecc64f02a3f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/a3b95fee3ab506822108ecc64f02a3f3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/2970a799321a3d3ce9931cf0925f0837/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/2970a799321a3d3ce9931cf0925f0837/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/74a61db6213297d92b5cd3a0de31b0e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/74a61db6213297d92b5cd3a0de31b0e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/9deb4adbc76bf9c6156acf1c92ec2d39/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/9deb4adbc76bf9c6156acf1c92ec2d39/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/327d6a071eb34147c1ed210ba457793f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/327d6a071eb34147c1ed210ba457793f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/4d47baf5563c2933782cd95ed7a3e1e4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/4d47baf5563c2933782cd95ed7a3e1e4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f1316f19a4bfdf17632a22d941d8090a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f1316f19a4bfdf17632a22d941d8090a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f4f37a34e48060fd7854584d86409cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/f4f37a34e48060fd7854584d86409cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/89265e2188b952e726b2891f007af1af/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/89265e2188b952e726b2891f007af1af/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/269cdbd62003e7270ee17a0a11f2e91b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/269cdbd62003e7270ee17a0a11f2e91b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/275180116ef8695b456514d4a511453f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/275180116ef8695b456514d4a511453f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/bb230b1e6fca8abac2e8d0ec8b80f4dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/bb230b1e6fca8abac2e8d0ec8b80f4dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/dbbfe007dd44a27dae75485dbc51a13b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gushaoyang/.gradle/caches/transforms-2/files-2.1/dbbfe007dd44a27dae75485dbc51a13b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gushaoyang/MyTool/SuperHero/app/src/main/AndroidManifest.xml

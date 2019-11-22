@@ -1,0 +1,4 @@
+#Fri Nov 22 11:24:46 CST 2019
+base.0=/Users/gushaoyang/MyTool/SuperHero/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
